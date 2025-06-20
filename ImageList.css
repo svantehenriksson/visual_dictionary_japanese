@@ -1,0 +1,36 @@
+/* ImageList.css */
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: white;
+  font-family: 'Orbitron', sans-serif;
+  padding: 2rem;
+}
+
+.image-card {
+  width: 200px;
+  margin: 2rem;
+  text-align: center;
+}
+
+.image-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 3px solid #ccc;
+  border-radius: 12px;
+  background-color: white;
+}
+
+.caption {
+  margin-top: 1rem;
+  font-size: 2.4rem; /* Doubled from 1.2rem */
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.image-card:hover .caption,
+.image-card:active .caption {
+  color: #007BFF;
+}
