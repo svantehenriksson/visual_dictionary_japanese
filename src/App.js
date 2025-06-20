@@ -25,7 +25,7 @@ function App() {
     <div className="app">
       {view === 'home' && (
         <div className="home-page">
-          <h1 className="header">Foclóir briathartha</h1>
+          <h1 className="header">視覚辞典 — Shikaku jite</h1>
           <h1 className="header">Visual Dictionary</h1>
 
               <div className="dictionary-bounce">
@@ -69,7 +69,7 @@ function App() {
           )}
           <div style={{ marginTop: '1.5rem', position: 'relative' }}>
             <button className="quiz-button" onClick={() => setShowTopicMenu(!showTopicMenu)}>
-              🔄 Athraigh téama – Change topic
+              🔄 トピックを変更 — Topikku o henkō – Change topic
             </button>
             {showTopicMenu && (
               <div className="topic-dropdown">
@@ -87,7 +87,7 @@ function App() {
           </div>
 
           <div style={{ marginTop: '2rem' }}>
-          <button className="quiz-button" onClick={() => setView('home')}>🏠 Baile – Home</button>
+          <button className="quiz-button" onClick={() => setView('home')}>🏠 ホームに戻る — Hōmu ni modoru – Home</button>
         </div>
         </div>
       )}
