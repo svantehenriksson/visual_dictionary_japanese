@@ -1,0 +1,26 @@
+smartphone: Simple cartoon drawing of a smartphone, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the smartphone, in a clean, child-friendly style.
+computer: Simple cartoon drawing of a computer, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the computer, in a clean, child-friendly style.
+laptop: Simple cartoon drawing of a laptop, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the laptop, in a clean, child-friendly style.
+keyboard: Simple cartoon drawing of a keyboard, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the keyboard, in a clean, child-friendly style.
+mouse: Simple cartoon drawing of a mouse, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the mouse, in a clean, child-friendly style.
+monitor: Simple cartoon drawing of a monitor, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the monitor, in a clean, child-friendly style.
+printer: Simple cartoon drawing of a printer, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the printer, in a clean, child-friendly style.
+headphones: Simple cartoon drawing of a headphones, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the headphones, in a clean, child-friendly style.
+USB stick: Simple cartoon drawing of a USB stick, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the USB stick, in a clean, child-friendly style.
+website: Simple cartoon drawing of a website, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the website, in a clean, child-friendly style.
+email: Simple cartoon drawing of a email, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the email, in a clean, child-friendly style.
+social media: Simple cartoon drawing of a social media, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the social media, in a clean, child-friendly style.
+video call: Simple cartoon drawing of a video call, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the video call, in a clean, child-friendly style.
+robot: Simple cartoon drawing of a robot, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the robot, in a clean, child-friendly style.
+battery: Simple cartoon drawing of a battery, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the battery, in a clean, child-friendly style.
+remote control: Simple cartoon drawing of a remote control, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the remote control, in a clean, child-friendly style.
+charger: Simple cartoon drawing of a charger, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the charger, in a clean, child-friendly style.
+camera: Simple cartoon drawing of a camera, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the camera, in a clean, child-friendly style.
+microphone: Simple cartoon drawing of a microphone, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the microphone, in a clean, child-friendly style.
+speaker: Simple cartoon drawing of a speaker, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the speaker, in a clean, child-friendly style.
+factory: Simple cartoon drawing of a factory, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the factory, in a clean, child-friendly style.
+keyboard: Simple cartoon drawing of a keyboard, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the keyboard, in a clean, child-friendly style.
+computer mouse: Simple cartoon drawing of a computer mouse, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the computer mouse, in a clean, child-friendly style.
+camera: Simple cartoon drawing of a camera, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the camera, in a clean, child-friendly style.
+loudspeaker: Simple cartoon drawing of a loudspeaker, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the loudspeaker, in a clean, child-friendly style.
+computer keyboard: Simple cartoon drawing of a computer keyboard, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the computer keyboard, in a clean, child-friendly style.

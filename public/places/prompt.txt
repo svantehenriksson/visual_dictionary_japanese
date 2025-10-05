@@ -1,0 +1,35 @@
+school: Simple cartoon-style drawing of a school for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+hospital: Simple cartoon-style drawing of a hospital for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+pharmacy: Simple cartoon-style drawing of a pharmacy for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+library: Simple cartoon-style drawing of a library for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+post office: Simple cartoon-style drawing of a post office for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+bank: Simple cartoon-style drawing of a bank for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+police station: Simple cartoon-style drawing of a police station for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+fire station: Simple cartoon-style drawing of a fire station for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+supermarket: Simple cartoon-style drawing of a supermarket for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+grocery store: Simple cartoon-style drawing of a grocery store for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+bakery: Simple cartoon-style drawing of a bakery for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+café: Simple cartoon-style drawing of a café for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+restaurant: Simple cartoon-style drawing of a restaurant for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+gas station: Simple cartoon-style drawing of a gas station for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+bus stop: Simple cartoon-style drawing of a bus stop for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+train station: Simple cartoon-style drawing of a train station for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+airport: Simple cartoon-style drawing of a airport for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+hotel: Simple cartoon-style drawing of a hotel for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+park: Simple cartoon-style drawing of a park for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+playground: Simple cartoon-style drawing of a playground for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+street: Simple cartoon-style drawing of a street for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+road: Simple cartoon-style drawing of a road for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+bridge: Simple cartoon-style drawing of a bridge for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+tunnel: Simple cartoon-style drawing of a tunnel for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+traffic light: Simple cartoon-style drawing of a traffic light for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+left arrow: Simple cartoon-style drawing of a left arrow for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+right arrow: Simple cartoon-style drawing of a right arrow for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+straight ahead arrow: Simple cartoon-style drawing of a straight ahead arrow for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+post office: Simple cartoon-style drawing of a post office for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+fire station: Simple cartoon-style drawing of a fire station for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+police station: Simple cartoon-style drawing of a police station for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+library: Simple cartoon-style drawing of a library for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+hotel: Simple cartoon-style drawing of a hotel for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+bridge: Simple cartoon-style drawing of a bridge for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.
+train station: Simple cartoon-style drawing of a train station for a children’s educational flashcard. No text. No clutter. Thick black lines. Soft colors.

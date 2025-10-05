@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://svantehenriksson.github.io/visual_japanese_dictionary",
+  "homepage": "https://svantehenriksson.github.io/visual_dictionary_japanese",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "recursive-readdir": "^2.2.3"
