@@ -1,0 +1,30 @@
+grocery store: Simple cartoon drawing of a grocery store, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the grocery store, in a clean, child-friendly style.
+supermarket: Simple cartoon drawing of a supermarket, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the supermarket, in a clean, child-friendly style.
+hardware store: Simple cartoon drawing of a hardware store, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the hardware store, in a clean, child-friendly style.
+kiosk: Simple cartoon drawing of a kiosk, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the kiosk, in a clean, child-friendly style.
+mall: Simple cartoon drawing of a mall, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the mall, in a clean, child-friendly style.
+cashier: Simple cartoon drawing of a cashier, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the cashier, in a clean, child-friendly style.
+customer: Simple cartoon drawing of a customer, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the customer, in a clean, child-friendly style.
+shopping basket: Simple cartoon drawing of a shopping basket, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the shopping basket, in a clean, child-friendly style.
+shopping cart: Simple cartoon drawing of a shopping cart, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the shopping cart, in a clean, child-friendly style.
+shelf: Simple cartoon drawing of a shelf, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the shelf, in a clean, child-friendly style.
+checkout: Simple cartoon drawing of a checkout, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the checkout, in a clean, child-friendly style.
+receipt: Simple cartoon drawing of a receipt, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the receipt, in a clean, child-friendly style.
+price tag: Simple cartoon drawing of a price tag, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the price tag, in a clean, child-friendly style.
+barcode: Simple cartoon drawing of a barcode, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the barcode, in a clean, child-friendly style.
+money: Simple cartoon drawing of a money, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the money, in a clean, child-friendly style.
+coin: Simple cartoon drawing of a coin, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the coin, in a clean, child-friendly style.
+banknote: Simple cartoon drawing of a banknote, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the banknote, in a clean, child-friendly style.
+wallet: Simple cartoon drawing of a wallet, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the wallet, in a clean, child-friendly style.
+purse: Simple cartoon drawing of a purse, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the purse, in a clean, child-friendly style.
+plastic bag: Simple cartoon drawing of a plastic bag, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the plastic bag, in a clean, child-friendly style.
+sale: Simple cartoon drawing of a sale, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the sale, in a clean, child-friendly style.
+credit card: Simple cartoon drawing of a credit card, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the credit card, in a clean, child-friendly style.
+ATM: Simple cartoon drawing of a ATM, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the ATM, in a clean, child-friendly style.
+bank: Simple cartoon drawing of a bank, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the bank, in a clean, child-friendly style.
+euro banknote: Simple cartoon drawing of a euro banknote, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the euro banknote, in a clean, child-friendly style.
+receipt: Simple cartoon drawing of a receipt, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the receipt, in a clean, child-friendly style.
+shopping basket: Simple cartoon drawing of a shopping basket, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the shopping basket, in a clean, child-friendly style.
+cash: Simple cartoon drawing of a cash, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the cash, in a clean, child-friendly style.
+shopping mall: Simple cartoon drawing of a shopping mall, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the shopping mall, in a clean, child-friendly style.
+plastic shopping bag: Simple cartoon drawing of a plastic shopping bag, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the plastic shopping bag, in a clean, child-friendly style.

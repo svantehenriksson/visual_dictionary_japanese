@@ -1,0 +1,39 @@
+house: Simple cartoon drawing of a house, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the house, in a clean, child-friendly style.
+home: Simple cartoon drawing of a home, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the home, in a clean, child-friendly style.
+room: Simple cartoon drawing of a room, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the room, in a clean, child-friendly style.
+kitchen: Simple cartoon drawing of a kitchen, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the kitchen, in a clean, child-friendly style.
+bathroom: Simple cartoon drawing of a bathroom, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the bathroom, in a clean, child-friendly style.
+bedroom: Simple cartoon drawing of a bedroom, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the bedroom, in a clean, child-friendly style.
+living room: Simple cartoon drawing of a living room, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the living room, in a clean, child-friendly style.
+door: Simple cartoon drawing of a door, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the door, in a clean, child-friendly style.
+window: Simple cartoon drawing of a window, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the window, in a clean, child-friendly style.
+floor: Simple cartoon drawing of a floor, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the floor, in a clean, child-friendly style.
+ceiling: Simple cartoon drawing of a ceiling, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the ceiling, in a clean, child-friendly style.
+wall: Simple cartoon drawing of a wall, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the wall, in a clean, child-friendly style.
+light: Simple cartoon drawing of a light, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the light, in a clean, child-friendly style.
+lamp: Simple cartoon drawing of a lamp, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the lamp, in a clean, child-friendly style.
+chair: Simple cartoon drawing of a chair, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the chair, in a clean, child-friendly style.
+table: Simple cartoon drawing of a table, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the table, in a clean, child-friendly style.
+sofa: Simple cartoon drawing of a sofa, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the sofa, in a clean, child-friendly style.
+bed: Simple cartoon drawing of a bed, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the bed, in a clean, child-friendly style.
+pillow: Simple cartoon drawing of a pillow, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the pillow, in a clean, child-friendly style.
+blanket: Simple cartoon drawing of a blanket, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the blanket, in a clean, child-friendly style.
+carpet: Simple cartoon drawing of a carpet, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the carpet, in a clean, child-friendly style.
+mirror: Simple cartoon drawing of a mirror, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the mirror, in a clean, child-friendly style.
+cupboard: Simple cartoon drawing of a cupboard, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the cupboard, in a clean, child-friendly style.
+fridge: Simple cartoon drawing of a fridge, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the fridge, in a clean, child-friendly style.
+fridge: Simple cartoon drawing of a fridge, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the fridge, in a clean, child-friendly style.
+oven: Simple cartoon drawing of a oven, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the oven, in a clean, child-friendly style.
+microwave oven: Simple cartoon drawing of a microwave oven, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the microwave oven, in a clean, child-friendly style.
+stove: Simple cartoon drawing of a stove, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the stove, in a clean, child-friendly style.
+sink: Simple cartoon drawing of a sink, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the sink, in a clean, child-friendly style.
+dishwasher: Simple cartoon drawing of a dishwasher, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the dishwasher, in a clean, child-friendly style.
+washing machine: Simple cartoon drawing of a washing machine, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the washing machine, in a clean, child-friendly style.
+television: Simple cartoon drawing of a television, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the television, in a clean, child-friendly style.
+clock: Simple cartoon drawing of a clock, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the clock, in a clean, child-friendly style.
+plate: Simple cartoon drawing of a plate, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the plate, in a clean, child-friendly style.
+glass: Simple cartoon drawing of a glass, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the glass, in a clean, child-friendly style.
+cup: Simple cartoon drawing of a cup, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the cup, in a clean, child-friendly style.
+fork: Simple cartoon drawing of a fork, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the fork, in a clean, child-friendly style.
+knife: Simple cartoon drawing of a knife, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the knife, in a clean, child-friendly style.
+spoon: Simple cartoon drawing of a spoon, centered on a plain light gray background. No text. No extra objects. Thick black outlines. Only the spoon, in a clean, child-friendly style.

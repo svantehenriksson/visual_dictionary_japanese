@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/visual_dictionary_japanese/static/css/main.469f7a7c.css",
-    "main.js": "/visual_dictionary_japanese/static/js/main.1ac7d41f.js",
+    "main.js": "/visual_dictionary_japanese/static/js/main.529a86f7.js",
     "static/js/453.cd420d2a.chunk.js": "/visual_dictionary_japanese/static/js/453.cd420d2a.chunk.js",
     "index.html": "/visual_dictionary_japanese/index.html",
     "main.469f7a7c.css.map": "/visual_dictionary_japanese/static/css/main.469f7a7c.css.map",
-    "main.1ac7d41f.js.map": "/visual_dictionary_japanese/static/js/main.1ac7d41f.js.map",
+    "main.529a86f7.js.map": "/visual_dictionary_japanese/static/js/main.529a86f7.js.map",
     "453.cd420d2a.chunk.js.map": "/visual_dictionary_japanese/static/js/453.cd420d2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.469f7a7c.css",
-    "static/js/main.1ac7d41f.js"
+    "static/js/main.529a86f7.js"
   ]
 }
