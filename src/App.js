@@ -5,6 +5,9 @@ import Quiz from './Quiz';
 import './App.css';
 import { topics } from './topics';
 
+import AuthGate from "./AuthGate";
+
+
 function App() {
   const topicKeys = Object.keys(topics);
   const [view, setView] = useState('home'); // start at home
@@ -22,6 +25,8 @@ function App() {
   };
 
   return (
+    <AuthGate>
+
     <div className="app">
       {view === 'home' && (
         <div className="home-page">
@@ -92,6 +97,9 @@ function App() {
         </div>
       )}
     </div>
+
+    </AuthGate>
+
   );
 }
 
