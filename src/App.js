@@ -1,6 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import ImageList from './ImageList';
 import Quiz from './Quiz';
+
+import { supabase } from "./supabaseClient";
 
 import './App.css';
 import { topics } from './topics';
@@ -23,6 +25,50 @@ function App() {
     setView('imagelist');
     setShowTopicMenu(false);
   };
+
+// Put this near the top of your App component (inside function App() { ... })
+const didMountRef = useRef(false);
+
+useEffect(() => {
+  // 1) guard: skip the very first render
+    if (!didMountRef.current) {
+        didMountRef.current = true;
+            return;
+              }
+
+                // 2) guard: don’t log empty topic
+                  if (!topic) return;
+
+                    // 3) log to Supabase (explicitly wired, no magic)
+                      (async () => {
+                          // get current user (works even if you don't pass session down)
+                              const {
+                                    data: { user },
+                                          error: userError,
+                                              } = await supabase.auth.getUser();
+
+                                                  if (userError) {
+                                                        console.error("Failed to get user:", userError.message);
+                                                              return;
+                                                                  }
+
+                                                                      // guard: must be logged in
+                                                                          if (!user) return;
+
+                                                                              const { error } = await supabase.from("topic_events").insert([
+                                                                                    {
+                                                                                            user_id: user.id,
+                                                                                                    topic: topic,
+                                                                                                            // created_at can be omitted if your DB has default now()
+                                                                                                                  },
+                                                                                                                      ]);
+
+                                                                                                                          if (error) {
+                                                                                                                                console.error("Failed to log topic event:", error.message);
+                                                                                                                                    }
+                                                                                                                                      })();
+                                                                                                                                      }, [topic]);
+
 
   return (
     <AuthGate>
