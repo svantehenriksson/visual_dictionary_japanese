@@ -11,7 +11,7 @@ import AuthGate from "./AuthGate";
 
 
 function App() {
-  const topicKeys = Obj0ect.keys(topics);
+  const topicKeys = Object.keys(topics);
   const [view, setView] = useState('home'); // start at home
   const [topicIndex, setTopicIndex] = useState(0);
   const [showTopicMenu, setShowTopicMenu] = useState(false);
