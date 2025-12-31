@@ -11,7 +11,7 @@ import AuthGate from "./AuthGate";
 
 
 function App() {
-  const topicKeys = Object.keys(topics);
+  const topicKeys = Obj0ect.keys(topics);
   const [view, setView] = useState('home'); // start at home
   const [topicIndex, setTopicIndex] = useState(0);
   const [showTopicMenu, setShowTopicMenu] = useState(false);
@@ -37,7 +37,7 @@ useEffect(() => {
               }
 
                 // 2) guard: don’t log empty topic
-                  if (topicIndex==0) return;
+                  if (topicIndex===0) return;
 
                     // 3) log to Supabase (explicitly wired, no magic)
                       (async () => {
