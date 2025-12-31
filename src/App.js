@@ -37,7 +37,7 @@ useEffect(() => {
               }
 
                 // 2) guard: don’t log empty topic
-                  if (!topic) return;
+                  if (topicIndex==0) return;
 
                     // 3) log to Supabase (explicitly wired, no magic)
                       (async () => {
@@ -58,7 +58,7 @@ useEffect(() => {
                                                                               const { error } = await supabase.from("topic_events").insert([
                                                                                     {
                                                                                             user_id: user.id,
-                                                                                                    topic: topic,
+                                                                                                    topic: topicIndex,
                                                                                                             // created_at can be omitted if your DB has default now()
                                                                                                                   },
                                                                                                                       ]);
@@ -67,7 +67,7 @@ useEffect(() => {
                                                                                                                                 console.error("Failed to log topic event:", error.message);
                                                                                                                                     }
                                                                                                                                       })();
-                                                                                                                                      }, [topic]);
+                                                                                                                                      }, [topicIndex]);
 
 
   return (
